@@ -6,9 +6,7 @@ This project allows you to steal passwords and cookies of the victim by insertin
 
 # News
 
-Due to large increase of visitors number, I have to delete the source code of stealer for the safety of the other people. 
-
-If you want to get a private build or participate in further project development, contact me [@kovinevmv](https://t.me/kovinevmv)
+**!!! Due to large increase of visitors number, I have to delete the source code of stealer for the safety of the other people. !!!** 
 
 
 # Warning
