@@ -4,11 +4,6 @@ This project allows you to steal passwords and cookies of the victim by insertin
 
 **Just plug BadUSB and get all data**
 
-# News
-
-**!!! Due to large increase of visitors number, I have to delete the source code of stealer for the safety of the other people. !!!** 
-
-
 # Warning
 
 **Everything in this repository is strictly for educational purposes. Notice I am not responsible for stolen data. You are responsible for your actions using developed script for BadUSB**
